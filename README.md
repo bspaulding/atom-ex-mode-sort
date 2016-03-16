@@ -1,4 +1,4 @@
-# atom-ex-mode-sort package
+# ex-mode-sort package
 
 Adds the `:sort` command to [ex-mode](https://atom.io/packages/ex-mode)
 

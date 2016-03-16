@@ -1,11 +1,11 @@
 {
-  "name": "atom-ex-mode-sort",
+  "name": "ex-mode-sort",
   "main": "./lib/atom-ex-mode-sort",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Adds :sort to atom's vim-mode's ex-mode.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/atom-ex-mode-sort",
+  "repository": "https://github.com/bspaulding/atom-ex-mode-sort",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
