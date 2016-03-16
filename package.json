@@ -1,7 +1,7 @@
 {
   "name": "ex-mode-sort",
   "main": "./lib/atom-ex-mode-sort",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Adds :sort to atom's vim-mode's ex-mode.",
   "keywords": [
   ],
